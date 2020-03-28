@@ -16,10 +16,10 @@ The project is written in Java 8. You will also need to import the Connector/J f
 * JRE v8
 * JDK v8
 * Database with Tables and Relations for school entities. A MySQL script is provided in 
-/MySQL-DB-scripts/private_school_DB_create_populate.sql that creates the tables and relationships and prifills the database 
+/MySQL-DB-scripts/private_school_DB_create_populate.sql that creates the tables and relationships and fills the database 
 with mock data
 * The database connection credentials should be set on the top of file src/Utils/DBUtils.java 
-* JDBC/Connector/J MySQL Added as a Jar Library(https://dev.mysql.com/downloads/connector/j/)
+* JDBC Connector/J MySQL Added as a Jar Library (https://dev.mysql.com/downloads/connector/j/)
 * Recommended: IDE (Netbeans, IntelliJ, Ecliple)
 * The database connection credentials should be set on the top of file src/Utils/DBUtils.java 
 
